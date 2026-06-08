@@ -42,7 +42,6 @@ A continuación se muestra la captura de pantalla con el resultado de la ejecuci
 """
 Módulo para la gestión de alumnos y sus calificaciones.
 
-Autor: Fulano Mengano Zutano
 Descripción: Este módulo define la clase Alumno y proporciona funciones
 para leer expedientes académicos desde archivos de texto usando
 expresiones regulares.
